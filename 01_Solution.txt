@@ -1,0 +1,3 @@
+These statements allow the programmer to make decisions based on the value of a variable or expression.
+ 
+The most common conditional statements in C are the if statement, the else statement, and the switch statement.

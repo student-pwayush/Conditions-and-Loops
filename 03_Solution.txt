@@ -1,0 +1,9 @@
+Loops are a programming element that repeat a portion of code a set number of times until the desired process is complete.
+The block of code is executed based on a certain condition. 
+Loops are the control structures of a program. 
+Using Loops in computer programs simplifies rather optimizes the process of coding.
+
+Types of Loops:
+1:for loop,
+2:The while loop,
+3:The do-while loop.
